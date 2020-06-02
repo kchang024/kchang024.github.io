@@ -42,7 +42,7 @@ p.jobs {
     font-weight : bold;
 }
 
-p.dates {
+span.dates {
     font-style  : italic;
 }
 
