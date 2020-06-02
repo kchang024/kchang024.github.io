@@ -52,3 +52,8 @@ ul {
     margin-left : 20%;
     margin-right: 20%;
 }
+
+.jobTitle {
+    font-weight : bold;
+    font-size   : 20px;
+}
