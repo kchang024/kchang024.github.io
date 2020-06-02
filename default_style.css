@@ -26,10 +26,6 @@ h4 {
     text-align  : center;
 }
 
-#profilePic {
-    text-align : center;
-}
-
 a:hover {
     color       : red;
 }
@@ -40,6 +36,15 @@ a {
     text-align  : center;
 }
 
-#bio {
+ul {
+    font-style  : italic;
+    font-weight : bold;
+}
+
+#profilePic {
+    text-align : center;
+}
+
+.bio {
     text-align  : center;
 }
