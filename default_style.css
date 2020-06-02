@@ -16,3 +16,11 @@
     font-size: 96px; 
     text-align: center;
  }
+
+ .indexLinks {
+
+ }
+
+ a:hover {
+    color:  red;
+ }
