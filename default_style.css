@@ -32,14 +32,17 @@ a:hover {
 
 .links {
     font-weight : bold;
-    font-size   : 14px;
-    text-align  : center
+    font-size   : 30px;
+    text-align  : center;
     margin-left : auto;
     margin-right: auto;
 }
 
 p.jobs {
-    font-style  : bold;
+    font-weight : bold;
+}
+p.dates {
+    font-style  : italic;
 }
 
 #profilePic {
@@ -54,5 +57,5 @@ p.jobs {
 
 p.jobTitle {
     font-weight : bold;
-    font-size   : 20px;
+    font-size   : 18px;
 }
