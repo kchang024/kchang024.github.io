@@ -33,14 +33,13 @@ a:hover {
 .links {
     font-weight : bold;
     font-size   : 16px;
-    /*text-align  : center;*/
+    text-align  : center
     margin-left : auto;
     margin-right: auto;
 }
 
-ul.jobs {
+p.jobs {
     font-style  : italic;
-    font-weight : bold;
 }
 
 #profilePic {
@@ -55,5 +54,5 @@ ul.jobs {
 
 p.jobTitle {
     font-weight : bold;
-    font-size   : 30px;
+    font-size   : 20px;
 }
