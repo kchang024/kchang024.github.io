@@ -1,4 +1,17 @@
-
+/******************************************************************** 
+ *
+ *                       README.md
+ *
+ *      COMP120 - Summer 2020
+ *
+ *      Assignment    : Lab 4 - Portfolio
+ *      Author        : Kevin Chang
+ *      Date          : 06-02-20
+ *      
+ *      README for lab 4
+ *      @ kchang024.github.io
+ *
+ ********************************************************************/
 Testing
 
 
@@ -12,3 +25,5 @@ Say approximately how many hours you have spent completing the lab.
 Be written in either text format (README.txt) or in Markdown (README.md). 
 Markdown is preferred. No other formats will be accepted. 
 Please use all capital letters for README
+
+# kchang024.github.io
