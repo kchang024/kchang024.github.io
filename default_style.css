@@ -30,7 +30,7 @@ a:hover {
     color       : red;
 }
 
-a {
+.links {
     font-weight : bold;
     font-size   : 16px;
     text-align  : center;
