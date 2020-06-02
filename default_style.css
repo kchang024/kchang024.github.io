@@ -26,6 +26,14 @@ img {
     text-align  : center;
 }
 
+#profilePic {
+    text-align : center;
+}
+
  a:hover {
     color       : red;
+ }
+
+ a {
+    font-weight : bold;
  }
