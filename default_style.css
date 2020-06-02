@@ -38,13 +38,15 @@ a:hover {
     margin-right: auto;
 }
 
+span.dates {
+    font-style  : italic;
+}
+
 p.jobs {
     font-weight : bold;
 }
 
-span.dates {
-    font-style  : italic;
-}
+
 
 #profilePic {
     text-align : center;
