@@ -38,7 +38,7 @@ a:hover {
     margin-right: auto;
 }
 
-ul {
+ul.jobs {
     font-style  : italic;
     font-weight : bold;
 }
