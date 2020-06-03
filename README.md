@@ -1,18 +1,9 @@
-/******************************************************************** 
- *
- *                       README.md
- *
- *      COMP120 - Summer 2020
- *
- *      Assignment    : Lab 4 - Portfolio
- *      Author        : Kevin Chang
- *      Date          : 06-02-20
- *      
- *      README for lab 4
- *      @ kchang024.github.io
- *
- ********************************************************************/
+README.md
+COMP120 Summer 2020
 
+Assignment    : Lab 4 - Portfolio
+Author        : Kevin Chang
+Date          : 06-02-20
 
 Correct Implementation:
     I believe I correctly implemented everything.
