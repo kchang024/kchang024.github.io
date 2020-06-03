@@ -1,5 +1,5 @@
 /* screen width > 1200 pixels displays the top row, left most image */
-@media screen and (min-width: 1201px) {
+@media only screen and (min-width: 1201px) {
 	.software {width: 128px; height: 240px; 
 		       background:url(responsive/software.png) 0 0px;}
 }
